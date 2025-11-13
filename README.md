@@ -1,4 +1,4 @@
-## Neha-Projects
+## Neha's-Projects
 # 🌐 Web Mini Projects by Neha Rajput
 
 This repository contains a collection of small **HTML, CSS, and JavaScript** projects developed to practice and demonstrate core frontend concepts.  
