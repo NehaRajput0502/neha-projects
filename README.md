@@ -14,7 +14,7 @@ A simple OTP input and verification system using HTML, CSS, and JavaScript.
 - Verifies user input.  
 - Responsive and customizable UI.
 
-### 🧠 Captcha Verification System (`captch`)
+### 🧠 Captcha Verification System (`captcha`)
 A basic Captcha system that generates random text-based captchas for validation.  
 - Prevents automated form submissions.  
 - Simple logic using JavaScript.  
