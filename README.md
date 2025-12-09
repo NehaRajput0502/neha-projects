@@ -8,7 +8,7 @@ Each project focuses on a specific functionality and is simple, clean, and easy 
 
 ## 📁 Projects Included
 
-### 🔐 OTP Verification System (`otdemo`)
+### 🔐 OTP Verification System (`otpdemo`)
 A simple OTP input and verification system using HTML, CSS, and JavaScript.  
 - Generates a random OTP.  
 - Verifies user input.  
